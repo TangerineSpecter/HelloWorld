@@ -32,4 +32,4 @@
 ## Suppress bug by image
 >Power of Holy; Light of Holy; Lighting Sword; Holy Area. 
 
-<img src="img/1.jpg" width="50%" height="50%">
+<img src="img/1.jpg">
