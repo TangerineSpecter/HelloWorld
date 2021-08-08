@@ -42,7 +42,8 @@
 - [BallGame](https://github.com/TangerineSpecter/BallGame)：Python弹球游戏初演示
 - [StudyCode](https://github.com/TangerineSpecter/StudyCode)：日常学习简单演示记录
 - [Rabbitmq-demo](https://github.com/TangerineSpecter/Rabbitmq-demo)：RabbitMQ学习记录
-- [Swagger-demo](https://github.com/TangerineSpecter/Swagger-demo)：Swagger接口文档自动生成工具
+- [Swagger-demo](https://github.com/TangerineSpecter/Swagger-demo)：Swagger接口文档自动生成工具学习记录
+- [Nacos-demo](https://github.com/TangerineSpecter/Nacos-demo)：Nacos微服务的服务注册与发现中心学习记录
 
 ## Suppress bug by image
 >Power of Holy; Light of Holy; Lighting Sword; Holy Area. 
